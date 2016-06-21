@@ -1,0 +1,19 @@
+# misc
+typings
+app/**/*.js
+app/**/*.map
+
+# dependencies
+node_modules
+jspm_packages
+bower_components
+
+# log files
+npm-debug.log
+
+# compiled output
+/dist
+/tmp
+
+# System files
+.DS_Store
